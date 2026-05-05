@@ -1,5 +1,14 @@
 # 🎮 Steam Game Data Analysis
 
+## ▶️ How to Run
+
+1. Clone the repository  
+2. Install dependencies:
+   pip install -r requirements.txt  
+3. Open Jupyter Notebook  
+4. Run `Steam_project.ipynb`
+
+
 ## 📌 Objective
 Analyze factors driving success in the gaming market using Steam dataset.
 
