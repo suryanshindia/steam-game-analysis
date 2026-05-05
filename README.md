@@ -1,27 +1,34 @@
-# 🎮 Steam Game Analysis
+# 🎮 Steam Game Data Analysis
 
 ## 📌 Objective
-Analyze Steam game data to identify key factors driving game success.
+Analyze factors driving success in the gaming market using Steam dataset.
 
----
+## 📊 Key Metrics Analyzed
+- Ownership (Users)
+- Player Engagement (Playtime)
+- Retention Ratio
+- Pricing Strategy
+- Platform Support
 
-## 📊 Key Insights
+## 🔍 Key Insights
+- Market follows a **winner-takes-most model**
+- Engagement is the **strongest driver of success**
+- Free-to-play improves acquisition but not retention
+- Price has weak correlation with ownership
+- Platform expansion increases reach but not guaranteed success
 
-- Engagement is the strongest driver of success (~0.42 correlation)
-- Review score has limited impact (~0.21)
-- Free-to-play games dominate user acquisition
-- Retention is critical for long-term growth
-- Market is highly competitive and skewed
+## 📈 Techniques Used
+- Data Cleaning & Feature Engineering
+- Exploratory Data Analysis (EDA)
+- Distribution & Correlation Analysis
+- Category & Tag Performance Analysis
 
----
+## 🛠 Tools
+- Python (Pandas, NumPy)
+- Matplotlib, Seaborn
 
-## 🛠 Tools Used
-- Python
-- Pandas
-- NumPy
-- Seaborn / Matplotlib
+## 📁 File
+- `Steam_project.ipynb`
 
----
-
-## 🚀 Conclusion
-Success in gaming depends more on engagement and retention than pricing or ratings. A few games dominate the market, making strong gameplay and player retention essential.
+## 🚀 Author
+Suryansh Sharma
