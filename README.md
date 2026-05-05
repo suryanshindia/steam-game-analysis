@@ -38,6 +38,7 @@ Analyze factors driving success in the gaming market using Steam dataset.
 
 ## 📁 File
 - `Steam_project.ipynb`
+- https://www.kaggle.com/datasets/patelris/steam-top-1495-games-dataset
 
 ## 🚀 Author
 Suryansh Sharma
